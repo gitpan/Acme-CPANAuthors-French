@@ -5,12 +5,13 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "0.08";
+    $VERSION = "0.09";
 }
 
 use Acme::CPANAuthors::Register (
     AASSAD      => "Arnaud Assad (Arhuman)",
     ALAMAZ      => "Joseph Benzakoun",
+    BCO         => "Bruno Cornec",
     BOOK        => "Philippe Bruhat (BooK)",
     BOUBAKER    => "Heddy Boubaker",
     BRIAC       => "Briac Pilpré",
@@ -54,6 +55,7 @@ use Acme::CPANAuthors::Register (
     GROMMIER    => "Sébastien Grommier",
     GROUSSE     => "Guillaume Rousse",
     GUYDX       => "Guy Decoux",
+    HOBBESTIG   => "Natal Ngétal",
     JACQUELIN   => "Jacquelin Charbonnel",
     JBNIVOIT    => "Jean-Baptiste Nivoit",
     JETEVE      => "Jérôme Eteve",
